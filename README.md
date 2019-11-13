@@ -6,4 +6,3 @@ Integrantes:
 2. **71871** 	  López Ríos, María Sol	  -   mariasol-23@hotmail.com
 3. **67559**  	Marchetti, Marco 		    -   marchetti554@gmail.com
 4. **58446**  	Mercado, Andrea		      -   andre_pabla@hotmail.com
-5. **50606**  	Visciglia, Cristian		  -   cristian.visciglia@gmail.com
