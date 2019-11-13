@@ -53,6 +53,7 @@
     <Compile Include="Builder\DirectorConstruccionInforme.cs" />
     <Compile Include="Builder\IConstructorInforme.cs" />
     <Compile Include="Controlador\GestorGenerarInformeCumplimientoGuardias.cs" />
+    <Compile Include="Modelo\InformePDF.cs" />
     <Compile Include="SqlServerTypes\Loader.cs" />
     <Compile Include="Vista\PantallaInforme.cs">
       <SubType>Form</SubType>

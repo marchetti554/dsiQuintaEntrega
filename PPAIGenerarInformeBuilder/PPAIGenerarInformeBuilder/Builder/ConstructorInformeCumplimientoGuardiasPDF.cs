@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PPAIGenerarInformeBuilder.Modelo;
+using System;
 using System.Windows.Forms.DataVisualization.Charting;
 
 namespace PPAIGenerarInformeBuilder.Builder
@@ -10,6 +11,8 @@ namespace PPAIGenerarInformeBuilder.Builder
     public class ConstructorInformeCumplimientoGuardiasPDF : IConstructorInforme
     {
 
+        private InformePDF producto;
+
         /**
          * Constructor por defecto.
          **/
@@ -20,28 +23,27 @@ namespace PPAIGenerarInformeBuilder.Builder
 
         public void construirCuerpo(Chart chart)
         {
-            throw new NotImplementedException();
+            producto.setCuerpo(chart);
         }
 
         public void construirEncabezado(DateTime fechaDesde, DateTime fechaHasta, string titulo)
         {
-            
+            producto.setEncabezado(fechaDesde, fechaHasta, titulo);
         }
 
         public void construirPie(DateTime fechaHoraGeneracion, string nombreUsuario)
         {
-            throw new NotImplementedException();
+            producto.setPie(fechaHoraGeneracion, nombreUsuario);
         }
 
-        public Object construirProducto()
+        public void construirProducto()
         {
-            return new Object();
+            producto = new InformePDF();
         }
 
-        //TODO: Definir tipo del producto
-        public Object obtenerProducto()
+        public InformePDF obtenerProducto()
         {
-            throw new NotImplementedException();
+            return producto;
         }
     }
 }
