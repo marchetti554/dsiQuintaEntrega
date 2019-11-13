@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controlador\GestorGenerarInformeCumplimientoGuardias.cs" />
+    <Compile Include="Vista\PantallaInforme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PantallaInforme.Designer.cs">
+      <DependentUpon>PantallaInforme.cs</DependentUpon>
+    </Compile>
     <Compile Include="Vista\PantallaMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -65,6 +72,15 @@
     <Compile Include="Vista\PantallaGenerarInformeCumplimientoGuardias.Designer.cs">
       <DependentUpon>PantallaGenerarInformeCumplimientoGuardias.cs</DependentUpon>
     </Compile>
+    <Compile Include="Vista\PantallaVisualizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\PantallaVisualizacion.Designer.cs">
+      <DependentUpon>PantallaVisualizacion.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Vista\PantallaInforme.resx">
+      <DependentUpon>PantallaInforme.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Vista\PantallaMenu.resx">
       <DependentUpon>PantallaMenu.cs</DependentUpon>
     </EmbeddedResource>
@@ -79,6 +95,9 @@
     </Compile>
     <EmbeddedResource Include="Vista\PantallaGenerarInformeCumplimientoGuardias.resx">
       <DependentUpon>PantallaGenerarInformeCumplimientoGuardias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\PantallaVisualizacion.resx">
+      <DependentUpon>PantallaVisualizacion.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
