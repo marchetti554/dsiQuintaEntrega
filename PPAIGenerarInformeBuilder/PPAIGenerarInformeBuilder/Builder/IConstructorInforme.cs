@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Windows.Forms.DataVisualization.Charting;
 
 namespace PPAIGenerarInformeBuilder.Builder
 {
@@ -9,10 +10,11 @@ namespace PPAIGenerarInformeBuilder.Builder
      **/
     public interface IConstructorInforme
     {
-        void construirProducto();
-        void construirEncabezado();
-        void construirCuerpo();
-        void construirPie();
+        //Definir tipo del producto
+        Object construirProducto();
+        void construirEncabezado(DateTime fechaDesde, DateTime fechaHasta, string titulo);
+        void construirCuerpo(Chart chart);
+        void construirPie(DateTime fechaHoraGeneracion, string nombreUsuario);
         //TODO: cambiar Object por el tipo que realmente devuelve.
         Object obtenerProducto();
     }
