@@ -5,12 +5,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PPAIGenerarInformeBuilder.Vista;
+using PPAIGenerarInformeBuilder.Builder;
 
 
 namespace PPAIGenerarInformeBuilder.Controlador
 {
     public class GestorGenerarInformeCumplimientoGuardias
     {
+
+        IConstructorInforme constructor;
+        DirectorConstruccionInforme directorBuilder;
+
         String fechaGeneracionReporteDesde;
         String fechaGeneracionReporteHasta;
         IList<Bombero> bomberos = new List<Bombero>();
@@ -70,6 +75,12 @@ namespace PPAIGenerarInformeBuilder.Controlador
             pantalla.mostrarBomberosActivos(buscarBomberosActivos());
 
             calcularCumplimientoGuardiaBombero();
+        }
+
+        public void generarReportePDF()
+        {
+            directorBuilder = new DirectorConstruccionInforme(new ConstructorInformeCumplimientoGuardiasPDF());
+            directorBuilder.construir(new string[3, 3], fechaGeneracionReporteDesde, fechaGeneracionReporteHasta, "usuarioBombero");
         }
 
         public void tomarFechasParaInforme(String fechaReporteDesde, String fechaReporteHasta) 

@@ -98,6 +98,7 @@ namespace PPAIGenerarInformeBuilder.Vista
             for (int i = 0; i < (bomberActivos.Count); i++) 
             {
                 DataGridViewCheckBoxColumn cc = new DataGridViewCheckBoxColumn();
+                //TODO: Cargar bien esta grilla por ahora no anda con esto -> 
                 dgv_bomberos.Rows.Add(cc, bomberActivos[i].nombre, bomberActivos[i].apellido, bomberActivos[i].dni);
             }           
         }
