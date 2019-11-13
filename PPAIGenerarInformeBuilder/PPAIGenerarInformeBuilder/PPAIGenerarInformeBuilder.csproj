@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Builder\ConstructorInformeCumplimientoGuardiasPDF.cs" />
+    <Compile Include="Builder\DirectorConstruccionInforme.cs" />
+    <Compile Include="Builder\IConstructorInforme.cs" />
     <Compile Include="Controlador\GestorGenerarInformeCumplimientoGuardias.cs" />
     <Compile Include="Vista\PantallaInforme.cs">
       <SubType>Form</SubType>
@@ -111,6 +114,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reporte\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
