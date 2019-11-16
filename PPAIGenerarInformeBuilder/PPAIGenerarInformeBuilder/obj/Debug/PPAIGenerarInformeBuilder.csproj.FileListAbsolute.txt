@@ -23,14 +23,24 @@ D:\Descargas\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInform
 D:\Descargas\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaInforme.resources
 D:\Descargas\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaVisualizacion.resources
 C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaInforme.resources
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.PantallaMenu.resources
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Properties.Resources.resources
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaGenerarInformeCumplimientoGuardias.resources
 C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaVisualizacion.resources
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.csproj.GenerateResource.cache
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.exe
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.pdb
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.exe.config
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.exe
-C:\Users\marco.marchetti\Source\Repos\dsiQuintaEntrega\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.pdb
 >>>>>>> d48e39c7166df070a1d12178a34731f9e0190904
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.exe.config
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.exe
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\PPAIGenerarInformeBuilder.pdb
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.csprojAssemblyReference.cache
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaInforme.resources
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.PantallaMenu.resources
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Properties.Resources.resources
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaGenerarInformeCumplimientoGuardias.resources
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.Vista.PantallaVisualizacion.resources
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.csproj.GenerateResource.cache
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.csproj.CoreCompileInputs.cache
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.csproj.CopyComplete
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.exe
+C:\Users\sebak\Desktop\Facu\DSI\2019\TP\5ta Entrega\dsiQuintaEntrega-master\PPAIGenerarInformeBuilder\PPAIGenerarInformeBuilder\obj\Debug\PPAIGenerarInformeBuilder.pdb
